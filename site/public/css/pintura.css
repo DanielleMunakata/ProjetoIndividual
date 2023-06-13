@@ -160,10 +160,11 @@ summary{
 
 img {
     height: 400px;
+    transition: 1s;
 }
 
 img:hover {
-    height: 450px;
+    transform: scale(1.2,1.2);
 }
 
 
